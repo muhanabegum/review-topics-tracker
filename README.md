@@ -1,2 +1,24 @@
-# study-session-tracker
-This web app created using Vue.js allows users to enter the topics they wish to study, rate their confidence level and then cross out and delete the topics once they are finished studying and are ready to take on their midterm/exam. 
+# review-topics-tracker
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
