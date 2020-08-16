@@ -8,7 +8,7 @@
           or the exam has passed, click the done button and you are officially free from studying! </p>
         <p> This web page is similar to study sheets that are typically created using paper or some sticky notes. If you aren't used to using something 
           like this, I strongly recommend you try it out and I hope everyone enjoys using it! </p>
-        <p> Author: Muhana Begum. <a href="www.github.com/muhanabegum" Github </a>. </p>
+        <p> Visit my <a href="www.github.com/muhanabegum" Github </a> for more. </p>
     </div>
   </div>
 </template>
