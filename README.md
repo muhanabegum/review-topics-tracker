@@ -1,4 +1,4 @@
-# review-topics-tracker
+# Study Session Review Tracker
 
 ## Project setup
 ```
