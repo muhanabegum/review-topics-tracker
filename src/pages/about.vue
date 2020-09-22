@@ -7,7 +7,7 @@
         <p>When you're super confident, simply cross out the topic and continue studying on the rest. Once you have completed your study session
           or the exam has passed, click the done button and you are officially free from studying! </p>
         <p> This web page is similar to study sheets that are typically created using paper or some sticky notes. If you aren't used to using something 
-          like this, I strongly recommend you try it out and I hope everyone enjoys using it! </p>
+          like this, I strongly recommend you try it out and I hope you enjoy using it! </p>
         <p> Author: Muhana Begum </p>
     </div>
   </div>
