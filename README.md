@@ -4,6 +4,10 @@ As someone who likes to list all the lessons I need to review before my exam and
 
 ![image1](https://github.com/muhanabegum/review-topics-tracker/blob/master/image.PNG)
 
+
+(Note that the image used on the webpage are not mine, credit belongs to owner(s). )
+
+
 ## Project setup
 ```
 npm install
